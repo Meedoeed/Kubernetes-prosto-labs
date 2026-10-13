@@ -22,7 +22,7 @@
 | Часть | Теория | Практика |
 | --- | --- | --- |
 | 1 | [Устройство кластера](https://habr.com/ru/articles/1082088/) | [Локальный кластер и первый Pod](labs/01-cluster/README.md) |
-| 2 | [Что происходит после kubectl apply](https://habr.com/ru/articles/1083100/) | Планируется: Deployment и ReplicaSet |
+| 2 | [Что происходит после kubectl apply](https://habr.com/ru/articles/1083100/) | [Deployment и ReplicaSet](labs/01-cluster/README.md)t |
 | 3 | [Service и доступ к Pod](https://habr.com/ru/articles/1084866/) | Планируется: Service, DNS и порты |
 | 4 | [NodePort и LoadBalancer](https://habr.com/ru/articles/1086754/) | Планируется: внешний доступ |
 | 5 | [Ingress](https://habr.com/ru/articles/1089214/) | Планируется: маршрутизация HTTP |
